@@ -1,36 +1,49 @@
-# Hi there, I'm Ojas! 👋
+<!---# Hi there :wave:
 
-I'm a passionate software developer with a keen interest in open source, cloud computing, and AI technologies. I enjoy working on innovative projects and contributing to the developer community.
+<img src="/Docs/profile.gif" data-canonical-src="/Docs/profile.gif" width="300" height="250" align="right"/> 
 
-## 🚀 About Me
+I’m Ojas, a Master's student in Robotics at Johns Hopkins.
 
-- 🔭 I’m currently working on various open source projects.
-- 🌱 I’m currently learning advanced cloud computing and AI technologies.
-- 👯 I’m looking to collaborate on open source projects and innovative software solutions.
-- 💬 Ask me about anything related to software development, cloud computing, or AI.
-- 📫 How to reach me: [Email](mailto:ojas@example.com)
-- ⚡ Fun fact: I love exploring new technologies and solving complex problems.
+- 👀 My research lies in Robotics, Medical Images, 3D Vision, and their applications.
+- 🔭 I'm a robot enthusiast and I'm keen on building AI-powered robots.
+- 📫 Please send direct emails to me if you're interested in my projects.
+- 🤩 Look forward to collaborating on any interesting Robotics/ROS development project.
 
-## 🛠️ Technologies & Tools
 
-- Programming Languages: Python, JavaScript, TypeScript, Java
-- Web Development: React, Node.js, Express, HTML, CSS
-- Cloud Platforms: AWS, Azure, Google Cloud
-- Databases: MySQL, PostgreSQL, MongoDB
-- DevOps Tools: Docker, Kubernetes, Jenkins, GitHub Actions
-- AI/ML: TensorFlow, PyTorch, scikit-learn
+jmz3/jmz3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
 
-## 🌐 Connect with Me
 
-- [GitHub](https://github.com/ojas200)
-- [LinkedIn](https://www.linkedin.com/in/ojas200)
-- [Twitter](https://twitter.com/ojas200)
 
-## 📊 GitHub Stats
+![Jeremy's GitHub stats](https://github-readme-stats.vercel.app/api?username=jmz3&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+--->
+<h2 align="left">Hi there 👋!</h2>
 
-![Ojas's GitHub stats](https://github-readme-stats.vercel.app/api?username=ojas200&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ojas200&layout=compact&theme=radical)
+###
 
----
+<br clear="both">
 
-Feel free to explore my repositories and get in touch if you'd like to collaborate on any projects!
+<p align="left">I’m Jiaming Zhang, a Ph.D. student in Computer Science. You can call me Jeremy as well.<br><br>- 👀 My research lies in Robotics, Medical Images, 3D Vision, and their applications.<br>- 🤖 I'm a robot enthusiast and I'm keen on building AI-powered robots.<br>- 📫 Please send direct emails to me if you're interested in my projects.<br>- 🤩 Look forward to collaborating on any interesting Robotics/ROS development project.</p>
+
+###
+
+<div align="left">
+  <img src="https://streak-stats.demolab.com?user=jmz3&locale=en&mode=weekly&theme=default&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jmz3&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=default&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/jmz3/jmz3/output/snake.svg" alt="Snake animation" />
+
+###
+
+<img align="left" src="https://profile-counter.glitch.me/jmz3/count.svg?"  />
+
+###
+
+<p align="right">Veritas vos Liberabit!</p>
+
+###
