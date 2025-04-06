@@ -23,7 +23,7 @@ You can click the Preview link to take a look at your changes.
 
 <br clear="both">
 
-<p align="left">I’m Jiaming Zhang, a Ph.D. student in Computer Science. You can call me Jeremy as well.<br><br>- 👀 My research lies in Robotics, Medical Images, 3D Vision, and their applications.<br>- 🤖 I'm a robot enthusiast and I'm keen on building AI-powered robots.<br>- 📫 Please send direct emails to me if you're interested in my projects.<br>- 🤩 Look forward to collaborating on any interesting Robotics/ROS development project.</p>
+<p align="left">I’m Ojas, a Master's student in Robotics at Johns Hopkins.</p>
 
 ###
 
@@ -36,11 +36,11 @@ You can click the Preview link to take a look at your changes.
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/jmz3/jmz3/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/ojas/ojas200/output/snake.svg" alt="Snake animation" />
 
 ###
 
-<img align="left" src="https://profile-counter.glitch.me/jmz3/count.svg?"  />
+<img align="left" src="https://profile-counter.glitch.me/ojas200/count.svg?"  />
 
 ###
 
