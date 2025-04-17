@@ -2,7 +2,7 @@
 
 ###
 
-<h5 align="left">I'm a Master's student in Robotics at Johns Hopkins University. <br><br>i) My research interests are in computer vision and learning for robotics.<br><br>ii) I'm specifically fascinated by understanding human visual intelligence and empowering robot with similar capabilities. I'm also fascinated in how robot can generalise to broadly intelligent behaviour during test-time.<br><br>iii) Current topics of interest: Foundation models, Generative Multimodal models, self-supervised learning & finetuning, vision-language models, learned visual representations for pose estimation.<br><br>iv) I've previously worked on path planning, pose estimation, point cloud registration, 3D reconstruction and image processing problems.</h5>
+<h5 align="left">I'm a Master's student in Robotics at Johns Hopkins University. <br><br>i) My research interests are in computer vision and learning for robotics.<br><br>ii) I'm specifically fascinated by understanding human visual intelligence and empowering robot with similar capabilities. I'm also fascinated with how robot can generalise to broadly intelligent behaviour during test-time.<br><br>iii) Current topics of interest: Foundation models, Generative Multimodal models, self-supervised learning & finetuning, vision-language models, learned visual representations for pose estimation.<br><br>iv) I've previously worked on path planning, pose estimation, point cloud registration, 3D reconstruction and image processing problems.</h5>
 
 ###
 
