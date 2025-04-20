@@ -2,14 +2,13 @@
 
 ###
 
-<h5 align="left">I'm a Master's student in Robotics at Johns Hopkins University. <br><br>i) My research interests are in computer vision and learning for robotics.<br><br>ii) I'm specifically fascinated by understanding human visual intelligence and empowering robots with similar capabilities. I'm also fascinated with how robot can generalise to broadly intelligent behaviour during test-time.<br><br>iii) Current topics of interest: Foundation models, Generative Multimodal models, self-supervised learning & finetuning, vision-language models, learned visual representations for pose estimation.<br><br>iv) I've previously worked on path planning, pose estimation, point cloud registration, 3D reconstruction and image processing problems.</h5>
+<p align="left">I'm a Master's student in Robotics at Johns Hopkins University. <br><br>i) My research interests are in computer vision and learning for robotics.<br><br>ii) I'm specifically fascinated by understanding human visual intelligence and empowering robots with similar capabilities. I'm also fascinated in how robots can generalise to broadly intelligent behaviour during test-time.<br><br>iii) Current topics of interest: Foundation models, Generative Multimodal models, self-supervised learning & fine-tuning, vision-language models, learned visual representations for pose estimation.<br><br>iv) I've previously worked on path planning, pose estimation, point cloud registration, 3D reconstruction and image processing problems.</p>
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ojas200&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=ojas200&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ojas200&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=ojas200&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=merko&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ojas200&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=merko&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 ###
