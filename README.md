@@ -82,5 +82,3 @@
 <img src="https://raw.githubusercontent.com/ojas200/ojas200/output/snake.svg" alt="Snake animation" />
 
 ###
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=ojas200&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
